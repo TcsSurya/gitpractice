@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 devA
+=======
+devB
+>>>>>>> refs/remotes/origin/main
